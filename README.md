@@ -73,3 +73,11 @@ Red Team enumeration techniques
 Authentication-based attack detection
 
 SIEM log correlation
+
+
+# Screenshots 
+
+<img width="1901" height="777" alt="5" src="https://github.com/user-attachments/assets/8e74677d-79c9-4aac-b700-133c1c66800c" />
+
+
+
